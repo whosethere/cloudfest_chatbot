@@ -1,0 +1,233 @@
+Welcome to CloudFest!
+
+We’re thrilled to have you join us for an exhilarating three days of coding, collaboration, and creativity at Europa-Park, Rust, Germany. This guide will help you navigate the event smoothly, ensuring you have all the information you need for an unforgettable experience.
+
+
+Agenda
+
+CloudFest Hackathon Agenda
+Posted on February 12, 2024by Carole Olinger
+The 2024 Agenda Is Here!
+
+As anticipation builds for the CloudFest Hackathon 2024, we’re thrilled to unveil the agenda finally.
+Set against the vibrant backdrop of Europa-Park, this year’s hackathon promises an engaging mix of innovation, collaboration, and fun, all dedicated to forging the future of open-source technology.
+Check Out the Full Agenda
+Day 1 – Kickoff to Innovation
+
+The event kicks off on March 16th at the Santa Isabel Hotel, where attendees will be greeted in the grand Convento & Refectorium rooms—a perfect setting for creative minds to converge.
+The day begins with an official welcome and project presentations, followed by intensive hacking sessions that dive deep into the world of open-source projects.
+An evening social event will cap off the day, offering a chance for participants to relax, network, and exchange ideas.
+Day 2 – Deep Dive into Development
+
+The second day continues with more hacking and opportunities for informal collaboration.
+Attendees and project leads will further develop their projects with the ongoing support of our esteemed project mentors, Lucas Radke (Automattic) and Alain Schlesser (Yoast).
+Another social event in the evening promises more networking and fun in the unique atmosphere of Europa-Park.
+Day 3 – Showcasing Achievements
+
+The final day of the hackathon focuses on finalizing projects and preparing for the presentation of results. This day is a culmination of hard work and innovation, with each team presenting their achievements.
+The event concludes with an awards ceremony, recognizing the outstanding contributions and successes of the participants while supporting the GroundBreaker Talents project.
+Special Addition on March 15: Early-Bird Gathering
+
+This year, we’re adding a special early-bird gathering on March 15th at the Restaurant Medici & Cesare in the Colosseo hotel. It’s a casual prelude to the main event where attendees can meet and mingle ahead of the intense hacking days. Please note that food and drinks at this gathering will be at your own expense.
+Beyond the Hackathon
+
+The excitement doesn’t end with the hackathon. Participants are encouraged to join the WP Day or the Intel AI Summit (tba) happening right after on Monday, March 18, or simply enjoy the legendary CloudFest 2024 Opening Party in the streets of Europa Park.
+Hackathon goes CloudFest: Presentation of Results
+
+Don’t miss the opportunity to showcase the fruits of your labor during the main CloudFest event!
+Our Presentation of Results session on Tuesday, March 19th will bring the innovative solutions and collaborative efforts from the hackathon to the larger CloudFest audience. This is your chance to highlight your hard work, share your project’s impact, and maybe even take the stage yourself in the CloudFest Arena.
+
+We’re setting the stage for a hackathon that not only challenges but inspires. With a blend of technical rigor, community spirit, and sheer enjoyment, CloudFest Hackathon 2024 is the place to be for anyone passionate about shaping the future of open-source software. Whether you’re a coder, a designer, a tech visionary, or an open-source enthusiast, this event promises an unparalleled opportunity to collaborate, learn, and innovate. Join us for an unforgettable experience!
+FRIDAY, MARCH 15: EARLY-BIRD GATHERING
+Hotel Colosseo
+
+17:00 – 19:00: Early Badge Pickup at CloudFest Info Counter
+Avoid the morning rush by picking up your attendee badge early! The CloudFest Info counter will be open exclusively for hackathon attendees in the lobby of the Colosseo hotel. Get your badge, beat the queue, and get ready for an exciting start!
+
+From 18:00: Welcome Dinner
+Join us for a casual get-together at the Restaurant Medici & Cesare. It’s a perfect opportunity to meet hackathon attendees before the event kicks off.
+N.B. Food and drinks are not covered and have to be paid for.
+
+
+DAY 1
+MARCH 16
+
+SATURDAY
+9:00
+to
+11:00
+Badge Pickup at CF Info Counter
+Check in for the CloudFest Hackathon and pick up your badge at the lobby of the Santa Isabel hotel.
+10:00
+Arrival at the Venue
+Welcome to the Santa Isabel hotel! Get settled in the Convento & Refectorium rooms and gear up for an exciting start.
+10:30
+Official Welcome and Kick-Off 🎤
+A heartfelt welcome and an introduction to the hackathon, setting the stage for what’s ahead.
+10:45
+Project Presentation
+Dive into the project introductions. Pick the challenge that calls out to you the most.
+11:15
+Time to Hack! 💻
+Form teams, meet your project lead(s), and start brainstorming on your chosen project.
+13:00
+Lunch Break
+It’s time to recharge with some nourishment.
+Also, it is a perfect window to formally check in to your hotel if you haven’t yet.
+14:00
+Time to Hack! 💻
+Continue collaborating with your team on your hackathon project.
+19:00
+Dinner
+Enjoy a well-deserved meal and drinks at the Sala Santa Isabel restaurant.
+20:00
+Mario Kart Tournament – Let’s a go!
+Get ready for the return of a CloudFest Hackathon classic.
+Fun, laughter, and a healthy dose of competitive spirit are guaranteed.
+
+
+DAY 2
+MARCH 17
+
+SUNDAY
+09:00
+Welcome to Day 2 and Inventory
+Quick morning check-in. Need any adjustments? Extra support? Let’s make sure every team is set up for success.
+09:10
+Time to Hack! 💻
+Dive back into your project work with fresh energy.
+13:00
+Lunch Break
+You gotta feed the machine! Another round of delicious fuel to keep you going.
+14:00
+Time to Hack! 💻
+Keep up the momentum on your project with your team.
+18:00
+Dinner
+Wind down with another delicious dinner at the Sala Santa Isabel restaurant.
+19:30
+The Blue Fire Megacoaster Event – brought to you by Intel
+For the first time, Europa-Park is opening its doors exclusively during the CloudFest Hackathon. Prepare to experience the thrill of the legendary Blue Fire Megacoaster.
+
+DAY 3
+MARCH 18
+
+MONDAY
+09:00
+Welcome to Day 3!
+Let’s kick off the final day of this hackathon!
+09:05
+Time to Hack! 💻
+Use these last hours wisely to polish your project before the final presentation.
+11:15
+Submission of Project Results
+Project leads, it’s time to submit your slides for presentation and the jury’s review.
+11:30
+Presentation of Results
+Keep up the momentum on your project with your team.
+12:30
+Lunch Break & Jury consultation
+Enjoy your final lunch with fellow hackers as the jury deliberates.
+13:30
+Awards and Official Closing Remarks 🎤
+Celebrating the winners and wrapping up with closing remarks
+Location: Alhambra, Hotel El Andaluz
+from
+14:00
+The Choice is Yours!
+Participate in the WP Day, and the Intel AI Summit,
+or continue to work on your hackathon project in the Santa Isabel hotel, Biblioteca Magellan.
+19:00
+Come2Gather in the Streets
+Don’t miss the legendary CloudFest 2024 Opening Party in the streets of Europa-Park, featuring the infamous Lords of Uptime. 🤘🎉
+
+
+MARCH 19: PRESENTATION OF RESULTS @ CLOUDFEST
+Tuesday, at the CloudFest Arena Stage – 17:10
+
+Innovation Unleashed: CloudFest Hackathon Results
+Be part of the excitement on the CloudFest Arena stage as we reveal your remarkable achievements from the hackathon. Celebrate the innovative solutions and collaborative efforts presented to the CloudFest audience. Join us in supporting and showcasing your hard work and dedication – and who knows? You might just find yourself spotlighted on stage
+
+
+CloudFest Agenda
+The CloudFest 2024 agenda is designed to help you reach your business goals through learning, networking, and moments of pure inspiration. Here is what we have lined up for you over four action-packed days—and exciting nights.
+Eye iconBACK TO FULL AGENDA
+Innovation Unleashed: CloudFest Hackathon Results
+March 19 (Tue)5:10 PM5:30 PM(CET)
+Location icon
+NameStudio API Arena StageFoyer
+Podium icon
+Fireside Chat
+Description
+
+Under the leadership of our CloudFest Head of Hackathon, Carole Olinger, and with the expert guidance of project mentors Alain Schlesser (Yoast) and Lucas Radke (Automattic), this year’s hackathon emerged once more as a pivotal event for open-source progress. In the 72 hours leading up to CloudFest, a diverse group of developers, designers, and tech leaders came together to push the boundaries of open-source innovation, transforming ideas into tangible solutions and setting new milestones for both existing and new projects.
+Renowned for fostering a dynamic environment of collaboration and creativity, the Hackathon has once again demonstrated its importance within the CloudFest lineup. Participants leveraged this unique opportunity to showcase their talents, develop new skills, and contribute to the open-source communities in meaningful ways.
+Join us to explore the impressive results of this collaborative endeavor. Learn about the pioneering projects developed during the Hackathon and discover how their breakthroughs can be integrated into your service offerings, unlocking new avenues for innovation and growth.
+Speakers
+Carole Olinger
+Carole Olinger
+Down icon
+Carole Olinger
+
+Carole Olinger
+
+Head of CF Hackathon & Partner manager at Yoast
+
+CloudFest & Yoast
+
+Carole has been the Head of CloudFest Hackathon since 2018 and loves connecting with people while helping build communities.
+
+She is also a Partner manager at Yoast BV, helping millions of WordPress and Shopify users improve their websites’ SEO with their plugins and online SEO courses. At Yoast, Carole is committed to building meaningful and mutually beneficial partnerships.
+
+Furthermore, Carole is a passionate advocate for diversity, inclusion, and positive mental health in tech.
+
+Previously, she was a WordPress community ambassador for a leading WebOps hosting platform as well as part of the marketing team of a well-renowned WordPress agency, building a better web at enterprise scale.
+
+Carole has also been involved in WordCamps all over the world as an organizer, speaker, emcee, and volunteer contributor to WordPress, and has been co-organizing Europe’s biggest flagship event, WordCamp Europe, twice.
+
+
+
+All Projects for 2024 Unveiled!
+
+Each project promises a unique blend of challenge and innovation. Dive into the details of our projects for the CloudFest Hackathon 2024 and start envisioning your role in these groundbreaking endeavors:
+Managing Multilingual Content with WP Multisite
+Public Sector Website Funding Transparency
+JSON Schema Field/Form Renderer
+CMS Health Checks
+Securing more infrastructure by easing OS upgrades
+Integrating MariaDB Catalogs with PHP Platforms
+Can everyone use _______?
+WordPress Tools for Hosting Providers
+Enable Mastodon Apps for WordPress and its Plugins
+Inclusive Language Checker for Open-Source Contributors
+Hack the Hackathon
+
+
+Goal-Oriented Projects
+
+Embarking on a project but uncertain about the endgame?
+We’re right here to help!
+
+We invite you to reflect on
+the anticipated outcome during the CloudFest Hackathon
+and the envisioned trajectory post-hackathon.
+
+Our focus goes beyond initiating projects – we aim for concrete results, milestones, and a well-charted path.
+
+And guess what? You won’t be sailing this ship alone. Two seasoned mentors are on board to guide your project vision. Their combined experience and expertise will be invaluable in making your project a standout success.
+Alain Schlesser
+
+Principal Architect at Yoast
+Google Developer Expert in Web Technologies
+Maintainer WP-CLI
+Lucas Radke
+
+Product Manager
+at Automattic/WordPress VIP
+Hosting Team Rep WordPress
+WordCamp Europe co-organizer
+
+Already have an interesting #OSS project idea but want preliminary feedback from our mentors?
+Touch base with us via email: hackathon@cloudfest.com
+
+Together we’ll put the finishing touches on your Hackathon project idea. 🤝
